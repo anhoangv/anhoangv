@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**anhoangv/anhoangv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vũ Ân 👋
 
-Here are some ideas to get you started:
+### 3rd-year Information Systems student at UIT
+### Aspiring Data Engineer • Exploring AI & Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+💻 I focus on building data-driven applications and backend systems.  
+📊 Currently exploring data engineering, data pipelines, and database systems.  
+🤖 Interested in AI, scalable systems, and solving real-world problems.
+
