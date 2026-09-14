@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm An Hoang Vu 👋
+# Hi, I'm Vũ Ân 👋
 
 **3rd-year Information Systems student at University of Information Technology**  
 **Aspiring Data Engineer • Exploring AI & Data Systems**
